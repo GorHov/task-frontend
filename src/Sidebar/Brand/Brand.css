@@ -1,0 +1,18 @@
+.brand-flex {
+  display: flex;
+  margin-left: 20rem;
+}
+
+.brand-title {
+  margin-left: 20rem;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.aaa{
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding-right: 10%;
+}
